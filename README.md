@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/HDTTefgd)
 # Exercise 5: Data analysis with pandas (10 points)
 
 In this exercise, we will be doing data analysis using [pandas - the Python Data Analysis Library](http://pandas.pydata.org/). So far, we have only used example data stored in list variables, and this week we will be loading data files and interacting with actual data sets. 
